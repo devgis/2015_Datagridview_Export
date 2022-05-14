@@ -1,0 +1,54 @@
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\Tool.dll
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+E:\project\GaohangSearch\GaohangDAL\bin\Debug\Tool.pdb
+E:\project\GaohangSearch\GaohangDAL\obj\Debug\GaohangDAL.csprojResolveAssemblyReference.cache
+E:\project\GaohangSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+E:\project\GaohangSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\Tool.dll
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+F:\bisu\bisuSearch\GaohangDAL\bin\Debug\Tool.pdb
+F:\bisu\bisuSearch\GaohangDAL\obj\Debug\ResolveAssemblyReference.cache
+F:\bisu\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+F:\bisu\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.csprojResolveAssemblyReference.cache
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\bin\Debug\Tool.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\Tool.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\GaohangModel.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\bin\Debug\Tool.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangDAL\obj\Debug\GaohangDAL.pdb

@@ -1,0 +1,127 @@
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\Tool.dll
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\Tool.pdb
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csprojResolveAssemblyReference.cache
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csproj.GenerateResource.Cache
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormLogin.resources
+E:\project\GaohangSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+E:\project\GaohangSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormAddPat.resources
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+E:\project\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+E:\project\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+E:\project\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csprojResolveAssemblyReference.cache
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormAddPat.resources
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormLogin.resources
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+E:\project\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csproj.GenerateResource.Cache
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+F:\bisu\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormAddPat.resources
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormLogin.resources
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\bisu\bisuSearch\GaohangSearch\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csprojResolveAssemblyReference.cache
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+E:\yerifeng\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+C:\Users\Administrator\Desktop\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csproj.GenerateResource.Cache
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csprojResolveAssemblyReference.cache
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+D:\Documents\Tencent Files\465932741\FileRecv\321\2bisuSearch20150331\bisuSearch20150331\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe.config
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.exe
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.exe
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangSearch.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\Tool.dll
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangBLL.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangDAL.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\GaohangModel.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\bin\Debug\Tool.pdb
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.FormMain.resources
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GaohangSearch.Properties.Resources.resources
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\bisuSearch\GaohangSearch\obj\x86\Debug\GenerateResource.write.1.tlog
